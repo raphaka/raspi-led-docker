@@ -17,3 +17,4 @@ services:
     restart: always
     ports:
       - "42069:42069"
+      - "80:80"
