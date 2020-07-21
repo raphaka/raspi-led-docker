@@ -10,6 +10,8 @@ services:
       - APP_NAME=LED_API
     expose:
       - 9999
+    ports:
+      - 1337 
 
   nginx:
     build: ./nginx
