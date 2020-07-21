@@ -1,0 +1,14 @@
+{
+  "udp_port": 1337,
+  "pin_red": 23,
+  "pin_green": 25,
+  "pin_blue": 24,
+  "pins_enabled": true,
+  "log_file": "raspi_led_api.log",
+  "log_level": "ERROR",
+  "fade_frequency": 30,
+  "effect_speed": 1,
+  "socket_timeout": 2,
+  "contrast_adjustment": 1,
+  "brightness_maximum": 255
+}

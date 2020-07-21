@@ -1,0 +1,6 @@
+2020-07-21 14:23:28.313 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2020-07-21 14:23:28.396 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2020-07-21 14:23:28.397 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2020-07-21 14:23:28.397 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2020-07-21 14:23:28.425 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2020-07-21 14:23:28.436 INFO: 127.0.0.1 - - [21/Jul/2020 14:23:28] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
