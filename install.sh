@@ -1,6 +1,9 @@
+#TODO check if docker already installed, prompt if not to add user to group
+
 # enable pigpio
-sudo apt-get install pigpiod docker docker-compose
+sudo apt-get install -y pigpiod docker docker-compose npm
 sudo systemctl enable --now pigpiod
+sudo systemctl enable --now docker
 
 # get latest angular frontend and deploy in nginx
 echo `dirname "$0"`
