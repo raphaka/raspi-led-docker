@@ -1,11 +1,11 @@
+version: "3.3"
+
 services:
 
   flask:
     build: ./flask
     container_name: flask
     restart: always
-    environment:
-      - APP_NAME=LED_API
     expose:
       - 9999
     ports:
